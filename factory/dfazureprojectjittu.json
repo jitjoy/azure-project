@@ -1,0 +1,9 @@
+{
+	"name": "dfazureprojectjittu",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a677469-d683-4b3f-874c-22e629294eda",
+		"tenantId": "8a874d7b-c067-4016-bb26-55541145b12e"
+	}
+}
